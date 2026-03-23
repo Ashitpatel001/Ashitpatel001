@@ -16,7 +16,7 @@
 
 ## 🧠 About Me
 
-Hi, I'm Ashit Patel, currently pursuing my degree in **[Your Course] at [Your College]**. I'm an aspiring AI/ML engineer focused on building real-world systems by combining backend development with modern AI techniques like **LLMs, RAG, and vector databases**.
+Hi, I'm Ashit Patel, currently pursuing my degree in **Information and Communication Technology at Pandit Deendayal Energy University**. I'm an aspiring AI/ML engineer focused on building real-world systems by combining backend development with modern AI techniques like **LLMs, RAG, and vector databases**.
 
 Alongside this, I’ve worked extensively with **C++**, focusing on **data structures, problem-solving, and algorithm optimization**, which has strengthened my core engineering mindset.  
 

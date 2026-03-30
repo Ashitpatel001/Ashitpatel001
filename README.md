@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ashit Patel</h1>
 
 <h3 align="center">
-🚀 AI/ML Engineer • Open Source Contributor • Building Efficient & Local-First AI Systems
+🚀 AI/ML Engineer • Open Source Contributor • Building Efficient & Local First AI Systems
 </h3>
 
 <p align="center">
@@ -66,34 +66,6 @@ Lately, I’ve been exploring **Agentic AI systems**, model optimization, and ho
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 
----
-
-<!-- ======================= PROJECTS ======================= -->
-
-## 🚀 Featured Work
-
-### 🔹 SmartSpare AI  
-> Intelligent Spare Parts Management & Query Assistant
-
-- Built using **RAG + LLM + ChromaDB**
-- OCR-based document processing pipeline  
-- Backend powered by **FastAPI**  
-- Enables **natural language querying over inventory data**
-- Focused on **efficiency, scalability & real-world usability**
-- Exploring **local deployment & optimized inference**
-
----
-
-### 🔹 Algorithm Optimization Projects (C++)
-> Performance-focused problem solving
-
-- Built multiple **DSA-based solutions in C++**
-- Focus on **time & space complexity optimization**
-- Strengthened **core engineering & system thinking**
-
----
-
-<!-- ======================= OPEN SOURCE ======================= -->
 
 ## 🌍 Open Source
 
@@ -129,21 +101,6 @@ Lately, I’ve been exploring **Agentic AI systems**, model optimization, and ho
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Ashitpatel001&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-<!-- ======================= CONNECT ======================= -->
-
-## 📬 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://github.com/Ashitpatel001">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  </a>
 </p>
 
 ---

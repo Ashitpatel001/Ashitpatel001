@@ -1,9 +1,9 @@
 <!-- ======================= HEADER ======================= -->
 
-<h1 align="center">Hi 👋, I'm Ashit Patel</h1>
+<h1 align="center">Hi , I'm Ashit Patel</h1>
 
 <h3 align="center">
-🚀 AI/ML Engineer • Open Source Contributor • Building Efficient & Local First AI Systems
+AI/ML Engineer • Open Source Contributor • Building Efficient & Local First AI Systems
 </h3>
 
 <p align="center">

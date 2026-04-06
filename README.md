@@ -9,7 +9,7 @@ AI/ML Engineer • Open Source Contributor • Building Efficient & Local First 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+Real-World+AI+Systems;RAG+%7C+LLMs+%7C+Vector+Databases;Optimizing+Models+for+Local+Execution;Exploring+Agentic+AI+Workflows" />
 </p>
----
+
 
 Hi, I'm Ashit Patel, currently pursuing my degree in **Information and Communication Technology at Pandit Deendayal Energy University**. I'm an aspiring AI/ML engineer focused on building real world systems by combining backend development with modern AI techniques like **LLMs, RAG, and vector databases**.
 

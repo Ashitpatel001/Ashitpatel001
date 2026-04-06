@@ -7,7 +7,7 @@ AI/ML Engineer • Open Source Contributor • Building Efficient & Local First 
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+Real-World+AI+Systems;RAG+%7C+LLMs+%7C+Vector+Databases;Optimizing+Models+for+Local+Execution;Exploring+Agentic+AI+Workflows" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+Real World+AI+Systems;RAG+%7C+LLMs+%7C+Vector+Databases;Optimizing+Models+for+Local+Execution;Exploring+Agentic+AI+Workflows" />
 </p>
 
 ---
@@ -19,4 +19,3 @@ Alongside this, I’ve worked extensively with **C++**, focusing on **data struc
 I actively contribute to **open-source projects**, and recently I’ve been focusing more on optimizing multimodal systems understanding how to make them faster, more efficient, and practical to run in real-world scenarios.
 
 Lately, I’ve been exploring **Agentic AI systems**, model optimization, and how to build **efficient AI solutions that can run locally**. A big part of my learning comes from **research papers, blogs, and hands on experimentation**, constantly pushing myself to grow as a developer.
-
